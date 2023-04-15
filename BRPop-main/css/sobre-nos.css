@@ -77,3 +77,50 @@ main {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
 }
+
+/*----------------------------titulo 1 e 2-------------------------------------------------*/
+
+.titulo {
+    display: flex;
+    width: 572px;
+    height: 71px;
+    margin-left: 300px;
+    margin-top: 60px;
+
+    font-family: 'arial';
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 36px;
+    line-height: 44px;
+
+    color: #FFFFFF;
+}
+
+.titulo2 {
+    display: flex;
+    width: 857px;
+    height: 495px;
+    margin-left: 105px;
+    margin-top: 100px;
+
+    font-family: 'arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+
+    color: #FFFFFF;
+
+}
+
+/*--------------------------------imagem de um motorista-------------------------------------------------*/
+
+.img-motorista img{
+    display: flex;
+    width: 600px;
+    height: 400px;
+    margin-left: 1100px;
+    margin-top: -500px;
+
+    border-radius: 35px;
+}
